@@ -1,0 +1,56 @@
+﻿.navbar-text {
+	font-family: "Kaushan Script", cursive;
+	color: white;
+	font-size: 2em;
+}
+
+.nav-item {
+	color: #fff;
+}
+
+
+.jumbotron {
+	background-image: url(../img/cool.jpg);
+	background-size: cover;
+	color: #FFD700;
+	text-align: center;
+	padding-bottom: 500px;
+	padding-top: 350px;
+	height: auto;
+	font-family: "Anton", sans-serif;
+}
+
+.bottom-footer img {
+		max-width: 100%;
+		width: 30px;
+		height: 30px;
+	}
+
+h1 {
+	text-align: center;
+	font-family: "Anton", sans-serif;
+}
+
+
+.site-footer {
+	background-color:  #000;
+	color: #fff;
+	margin-top: 30px;
+	padding-top: 30px;
+}
+
+.bottom-footer {
+	margin-top:10px;
+	padding-top:10px;
+	color: #fff;
+	display:inline;
+}
+
+.footer-nav {
+	text-align: right;
+	list-style: none;
+}
+
+.footer-nav li {
+	display:inline;
+}
